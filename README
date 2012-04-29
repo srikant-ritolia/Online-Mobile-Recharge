@@ -1,0 +1,5 @@
+Online Mobile Recharge System is a project made by Srikant Ritolia and Ayush Mawandia in JSP. 
+
+1) To run this project you need to first make a database known as OMR in phpmyadmin or whereever you feel comfortable. 
+2) Then you may run the sql_query file for creating the database for running the project.
+3) import the project in your workspace and make changes in the username, password field in all the files wherever connection is made. You can all do it at once (using the entire project search). 
