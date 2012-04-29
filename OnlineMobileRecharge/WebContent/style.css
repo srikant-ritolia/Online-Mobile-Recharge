@@ -1,0 +1,108 @@
+body{
+	background:url(images/bg.jpg);
+}
+#main{
+	width:1100px;
+	margin:10px auto;   /* this is to center the div*/
+/*	background:white; */	/* this is to change the background */
+/*	border:1px solid grey; */
+/*border-radius:20px; */
+	box-shadow:3px 3px 20px #000;
+	       
+}
+
+#header{background:url(images/header.jpg);
+border-radius:20px 20px 0 0;
+height:150px;
+}
+#menu{
+	padding:10px 0;
+	background-color: teal;
+}
+#menu a{
+	color:whitesmoke;
+	padding:10px;
+	text-decoration:none;
+	
+}
+
+#menu a:hover{
+	color:#FFF;
+	font-style: bold;
+	background: orange;
+}
+
+#about_text{
+	padding:10px;
+	
+}
+#footer{text-align:center;
+color:white;
+font-style:italic;
+width:1100px;
+border-radius:0 0 20px 20px;
+margin-top: 100px;
+padding-bottom:5px;
+}
+
+#right_sidebar{min-height:250px;float:right;}
+
+
+.post{
+/*padding:50px;*/
+margin-bottom:10px;
+border:1px solid #AAA;
+border-radius:10px;
+font-size:1.5em;
+background:darkgrey;
+text-shadow:1px 1px #CCC;
+box-shadow:4px 4px 10px #CCC;
+}
+#contentbox{min-height:800px;}
+#left_sidebar{width:300px;  min-height:200px;}
+#mid_sidebar{width:504px; min-height:300px;}
+#left_sidebar,#mid_sidebar{float:left;}
+.clear{clear:both;}
+#right_sidebar{width:280px; }
+#box1{height:200px;}
+#box2{min-height:300px;padding-top:60px;}
+
+#form{padding:40px;}
+#mbox2{height:370px; width:498px; background:white; border-radius:10px; padding:10px; font-style:italic;}
+
+#mbox2 h2{
+	color:teal;
+	text-decoration: none;
+}
+#mbox1{height:330px; width:504px;padding-top:15px;}
+#rbox{height:270px;}
+#rbox3{height:200px; width:280px;border-radius:5px;margin:10px}
+#about_text a,c{
+	color:white;
+	text-decoration: none;
+}
+#about_text b{
+	color:teal;
+	text-decoration: none;
+}
+.tab {
+	color: white;
+}
+#about_text d{
+	color:olive;
+	text-decoration: none;
+}
+#form b{
+	color:teal;
+	text-decoration: none;
+}
+#form a{
+	color:white;
+	text-decoration: none;
+}
+
+.container1{min-height:200px; border:4px solid #CCC; border-radius:10px; margin:10px;background:#FFF;}
+
+.container{min-height:200px;border:4px solid #CCC; border-radius:10px; margin:10px;background:#FFF;}
+.titlebar{background: teal;padding:5px;color:#FFF; border-radius:5px 5px 0 0;}
+.sidebarcontent{font-style:italic;padding:10px;}
