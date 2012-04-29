@@ -1,5 +1,21 @@
 Online Mobile Recharge System is a project made by Srikant Ritolia and Ayush Mawandia in JSP. 
 
-1) To run this project you need to first make a database known as OMR in phpmyadmin or whereever you feel comfortable. 
-2) Then you may run the sql_query file for creating the database for running the project.
-3) import the project in your workspace and make changes in the username, password field in all the files wherever connection is made. You can all do it at once (using the entire project search). 
+This System allows users to easy recharge their cellphones or any other telecommunication device by making an online payment.
+User can recharge mobile of different service providers
+User has flexibility to make payment through debit card, credit card, paypal and internet banking.
+Maintain a record of user information in login table.
+Save past transactions and recharge history.
+Users can view monthly or weekly expenses in mobile phones.
+User will be informed about new offers through sms.
+The system will provide a secure payment transfer mode made through debit card , credit card, paypal, and internet banking. This is achieved using HTTPS secure page using SSL Certificate.
+In case of unsuccessful transfer the it will be taken care that the amount has not been deducted from the user account.
+Maintain a database for each service provider.
+Maintains database for login for each user.
+Special offer will be placed in offer table.
+The transaction record of the user will be saved in the transaction table. 
+Register table keeps track of the user that is being registered to the site.
+The system will be compatible with all browsers and operating system.
+
+
+
+
